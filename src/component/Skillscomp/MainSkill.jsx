@@ -1,5 +1,5 @@
 import React from 'react'
-import Skillstext from './Skillstext'
+import Skillstext from './SkillsText'
 import AllSkills from './AllSkills'
 import AllSkillsSM from './AllSkillsSM'
 import{motion} from "framer-motion"
