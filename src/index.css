@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Roboto&display=swap');
+@import "tailwindcss";
+
+@theme {
+  
+  --color-brown: #53423e;
+  --color-light-brown: #645550;
+  --color-dark-brown: #2c2523;
+  --color-black: #1e1917;
+  --color-white: #f1e1d9;
+  --color-cyan: #15d1e9;
+  --color-light-cyan: #88e5f0;
+  --color-dark-cyan: #009fb3;
+  --color-orange: #fb9718;
+  --color-light-orange: #fac27b;
+  --color-dark-orange: #d28422;
+  --color-grey: #626965;
+  --color-light-grey: #978580;
+  --color-dark-grey: #3f4441;
+  
+  --font-body: 'Josefin Sans', sans-serif;
+  --font-special: 'Roboto', sans-serif;
+
+  --shadow-cyan: 0 0 20px rgba(94, 206, 220, 0.5);
+  --shadow-cyanMediumshadow: 10px 10px 200px 150px rgba(94,206,220,0.5); 
+ --shadow-orangeMediumshadow: 10px 10px 200px 150px rgba(240,169,79,0.5);
+
+ --breakpoint-sm: 350px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1536px;
+
+
+
+
+}
+
+body {
+  @apply bg-dark-brown 
+}
