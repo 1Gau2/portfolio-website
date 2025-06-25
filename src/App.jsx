@@ -3,7 +3,7 @@ import ContactMeMain from "./component/Contactmesection/ContactMeMain";
 import ExperienceMain from "./component/experiencesection/ExperienceMain";
 import FooterMain from "./component/footersection/FooterMain";
 import Herogradient from "./component/Herosection/Herogradient";
-import Heromain from "./component/herosection/heromain";
+import Heromain from "./component/Herosection/Heromain";
 import Subsection from "./component/Herosection/Subsection";
 import Navbarmain from "./component/Navbar/Navbarmain";
 import ProjectMain from "./component/Projectsection/ProjectMain";
